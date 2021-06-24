@@ -18,7 +18,7 @@ For ASUS computer, use ASIO driver.  Sound is bad until I click on "device contr
 ### Thoughts on Rodgers 32B
 
 * Very difficult to MIDIFY with existing organ kept intact.  No reason to do this other than sentiment/respect.
-* Can reuse the console box, putting new keyboards in (with better touch).  Keyboards come with piston buttons that interface with Hauptwerk.
+* Can reuse the console box, putting new keyboards in (with better touch). ## I like this   Keyboards come with piston buttons that interface with Hauptwerk.
 * Can reuse the pedalboard.  Use existing switches as MIDI inputs? 
 * A big project to reuse stop tabs - probably don't want to do this.
 * Current speaker system has r/l inputs to one speaker set and single input to Woofer.  2 X 500Watt Amplifiers in Organ "loft".
